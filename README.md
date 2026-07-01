@@ -156,25 +156,6 @@ Business Insights
 
 ---
 
-# 📷 Dashboard Preview
-
-### 📊 Sales Dashboard
-
-*(Add your Power BI dashboard screenshot here.)*
-
----
-
-### 📈 Outlet Performance Dashboard
-
-*(Add another screenshot here.)*
-
----
-
-### 🛍️ Product Analysis Dashboard
-
-*(Add another screenshot here.)*
-
----
 
 # 📚 Skills Demonstrated
 
@@ -210,7 +191,7 @@ https://github.com/your-github-username/Blinkit-BI-Analysis
 
 # 👨‍💻 Author
 
-## K Chintu
+## K Durga Prasad
 
 **Aspiring Data Analyst | Business Intelligence | Data Science Enthusiast**
 
